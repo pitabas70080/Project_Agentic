@@ -1,0 +1,7 @@
+langchain
+openai
+python-dotenv
+streamlit
+PyMuPDF
+langchain_groq
+langchain-core
